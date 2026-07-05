@@ -1,5 +1,6 @@
 # AI Resume Analyzer
 
+Python | Gemini AI | NLP | ATS | PDF Processing
 ## Overview
 
 AI Resume Analyzer is an ATS (Applicant Tracking System) powered application that analyzes PDF resumes using Google's Gemini AI. The system extracts resume text, evaluates ATS compatibility, and provides structured feedback including strengths, weaknesses, summary, and ATS score.
